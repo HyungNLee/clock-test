@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Clock.Tests.deps.json
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Clock.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Clock.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp1.1/Clock.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Clock.Tests.dll
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Clock.Tests.pdb
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Clock.dll
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/bin/Debug/netcoreapp1.1/Clock.pdb
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp1.1/Clock.Tests.dll
+/Users/Guest/Desktop/Clock.Solution/Clock.Tests/obj/Debug/netcoreapp1.1/Clock.Tests.pdb

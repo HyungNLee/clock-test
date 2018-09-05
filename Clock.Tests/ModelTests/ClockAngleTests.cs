@@ -7,6 +7,10 @@ namespace Clock.Test
   public class ClockTest
   {
     [TestMethod]
-
+    public void CalculateAngleTest_Angle()
+    {
+      ClockFace testClock = new ClockFace();
+      Assert.AreEqual(157.5, testClock.CalculateAngle(3, 45));
+    }
   }
 }

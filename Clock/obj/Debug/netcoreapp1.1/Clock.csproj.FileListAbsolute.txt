@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/Clock.Solution/Clock/bin/Debug/netcoreapp1.1/Clock.deps.json
+/Users/Guest/Desktop/Clock.Solution/Clock/obj/Debug/netcoreapp1.1/Clock.AssemblyInfo.cs
+/Users/Guest/Desktop/Clock.Solution/Clock/bin/Debug/netcoreapp1.1/Clock.dll
+/Users/Guest/Desktop/Clock.Solution/Clock/bin/Debug/netcoreapp1.1/Clock.pdb
+/Users/Guest/Desktop/Clock.Solution/Clock/obj/Debug/netcoreapp1.1/Clock.dll
+/Users/Guest/Desktop/Clock.Solution/Clock/obj/Debug/netcoreapp1.1/Clock.pdb
